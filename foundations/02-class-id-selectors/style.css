@@ -1,10 +1,20 @@
 
-p {
+.odd-highlight {
     background-color: rgb(239, 116, 136);
-    font-family: Verdana, Dejavu Sans, sans-serif;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
 }
 
 #two-element {
     color: rgb(0, 0, 255);
     font-size: 36px;
+}
+
+.font-change {
+    font-size: 24px;
+}
+
+#four-element {
+    background-color: rgb(141, 223, 18);
+    font-size: 24px;
+    font-weight: bold;
 }
